@@ -42,6 +42,9 @@ table {/* tables still need 'cellspacing="0"' in the markup */
 	border-collapse: separate;
 	border-spacing: 0;
 }
+li {
+  margin-bottom: 0.5rem;
+}
 caption, th, td {
 	font-weight: normal;
 	text-align: left;
