@@ -124,6 +124,16 @@ a:hover { color: #5f2f22; border-color: #5f2f22; }
   line-height: 1.55;
 }
 
+.profile-lab-link {
+  color: var(--accent);
+  font-weight: 700;
+  border-bottom-color: rgba(141, 79, 58, 0.35);
+}
+
+.profile-lab-link:hover {
+  color: #5f2f22;
+}
+
 .profile-links {
   display: flex;
   flex-wrap: wrap;
